@@ -1,6 +1,7 @@
 # Bookstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
+Bookstore app created with angular for the Santander Bootcamp.
 
 ## Development server
 
